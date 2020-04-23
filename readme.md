@@ -12,7 +12,7 @@ npm install
 ```
 
 ```javascript
-node scraper.js
+npm run scrapy
 ```
 
 - **Change the website and add yours**

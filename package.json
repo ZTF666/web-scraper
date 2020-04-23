@@ -4,7 +4,7 @@
   "description": "A simple scraper",
   "main": "scraper.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scrapy": "node scraper.js"
   },
   "author": "ZTF666",
   "license": "ISC",
