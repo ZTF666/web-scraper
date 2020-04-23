@@ -1,0 +1,15 @@
+{
+  "name": "chouftv-scraper",
+  "version": "1.0.0",
+  "description": "A simple scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZTF666",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
