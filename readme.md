@@ -24,7 +24,7 @@ $('.description').each((index,element)=>{
 })
 ```
 
-![Screenshot](src/res.png)
+![Screenshot](scr/res.png)
 
 ```
 It looks weird because i used it on a local news website.
@@ -36,7 +36,7 @@ It looks weird because i used it on a local news website.
   <p>This is a shitty scrapper , i'm still learning.</p>
   <p>It doesn't scrap unloaded links. </p>
 
-   ![Screenshot](src/lm.png) 
+   ![Screenshot](scr/lm.png) 
 
 <p>In the screenshot above , the button litteraly translates to : LOAD MORE</p>
 <p>Since i suck at this, i can't make it load more so i can grab the links</p>
@@ -45,3 +45,20 @@ It looks weird because i used it on a local news website.
 <p>since the deployement of the website... </p>
 </details>
 
+## Support
+
+```
+Any help improving this and adding more stuff is welcomed ! i'm still learning JS .
+```
+
+## Contact me
+
+```
+you can contact me at ZTF666@protonmail.ch or via my portfolio
+```
+
+- **💎** [Portfolio](https://ztfportfolio.web.app/) **💎**
+
+```
+Made with 💘 by a 👨‍💻 on a 💻 | 2020 | ZTF666
+```
