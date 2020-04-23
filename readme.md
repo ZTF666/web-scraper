@@ -9,7 +9,9 @@ No dynamic scraping ...
 
 ```javascript
 npm install
+```
 
+```javascript
 node scraper.js
 ```
 
