@@ -15,13 +15,12 @@ axios.get('https://chouftv.ma/press')
 - **Change the elements by the ones you desire**
 
 ```javascript
+
 $('.description').each((index,element)=>{
     const title = $(element).children().first().text()
     const links=$(element).children('a').attr('href')
- 
-    articles [index]={title,links};
-  
 })
+
 ```
 
 ![Screenshot](scr/res.png)
