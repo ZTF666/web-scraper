@@ -2,6 +2,7 @@
 
 A small page scraper , still a WiP .
 No dynamic scraping ...
+This script uses axios and cheerio .
 
 ## How to use
 
