@@ -2,7 +2,13 @@
 
 A small page scraper , still a WiP .
 No dynamic scraping ...
-This script uses axios and cheerio .
+This script uses :
+
+<div align="center">
+<img src="https://avatars0.githubusercontent.com/u/7230330?s=200&v=4"  width='60' height='60'>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1"  width='60' height='60'>
+<h6><strong>A</strong>xios</h6>
+</div>
 
 ## How to use
 
@@ -52,20 +58,29 @@ It looks weird because i used it on a local news website.
 <p>since the deployement of the website... </p>
 </details>
 
-## Support
+## Contact
 
 ```
-Any help improving this and adding more stuff is welcomed ! i'm still learning JS .
-```
-
-## Contact me
+you can contact me at ZTF666@protonmail.ch
 
 ```
-you can contact me at ZTF666@protonmail.ch or via my portfolio
-```
 
-- **💎** [Portfolio](https://ztfportfolio.web.app/) **💎**
+<div align="center">
 
-```
-Made with 💘 by a 👨‍💻 on a 💻 | 2020 | ZTF666
-```
+<table>
+  <tr>
+    <td align="center"><a href="https://ztfportfolio.web.app/" target='_blank'><img src="https://avatars1.githubusercontent.com/u/32502988?v=4" width="100px;" alt=""/><br /><sub><b>ZTF666</b></sub></a></td>
+  </tr>
+</table>
+
+</div>
+
+## License
+
+<div align="center">
+
+**💩Scrapy💩** released under the [MIT](LICENSE) License.
+<br><br>
+<strong><p>Made with 💘 by a 👨‍💻 on a 💻 | 2020 | ZTF666 - N.EA</p> </strong>
+
+</div>
