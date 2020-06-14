@@ -5,8 +5,8 @@ No dynamic scraping ...
 This script uses :
 
 <div align="center">
-<img src="https://avatars0.githubusercontent.com/u/7230330?s=200&v=4"  width='60' height='60'>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1"  width='60' height='60'>
+<img src="https://avatars0.githubusercontent.com/u/7230330?s=200&v=4"  width='60' height='60' alt='Cheerio'>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1"  width='60' height='60' alt="Javascript">
 <h6><strong>A</strong>xios</h6>
 </div>
 
